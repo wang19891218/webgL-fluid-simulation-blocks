@@ -1,8 +1,17 @@
-# WebGL Fluid Simulation
+# WebGL Fluid Simulation with blocks
+
+## To-do list
+* Change demo address 
+* Add blocks 
+
+
+
 
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 <img src="/screenshot.jpg?raw=true" width="880">
+
+
 
 ## References
 
